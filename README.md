@@ -1,3 +1,5 @@
+# 说明
+这个分支是针对目前项目需求，对原master分支进行的一些bug修复的分支
 # three-pathfinding
 
 [![Latest NPM release](https://img.shields.io/npm/v/three-pathfinding.svg)](https://www.npmjs.com/package/three-pathfinding)
